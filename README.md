@@ -19,4 +19,4 @@ I'm a full-stack developer working with CodeIgniter, Laravel, Vue, and Flutter.
 ## Find me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=flat-square&logo=googlechrome&logoColor=white)](https://galantryas.github.io/)
-<a href="https://www.linkedin.com/in/galantryas-mukti-pratama"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/linkedin/linkedin-original.svg" alt="" width="20" height="20" /> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTIxLjA2IDQ4LjczaDE4LjExVjEwN0gyMS4wNnptOS4wNi0yOWExMC41IDEwLjUgMCAxMS0xMC41IDEwLjQ5IDEwLjUgMTAuNSAwIDAxMTAuNS0xMC40OU01MC41MyA0OC43M2gxNy4zNnY4aC4yNGMyLjQyLTQuNTggOC4zMi05LjQxIDE3LjEzLTkuNDFDMTAzLjYgNDcuMjggMTA3IDU5LjM1IDEwNyA3NXYzMkg4OC44OVY3OC42NWMwLTYuNzUtLjEyLTE1LjQ0LTkuNDEtMTUuNDRzLTEwLjg3IDcuMzYtMTAuODcgMTVWMTA3SDUwLjUzeiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/galantryas-mukti-pratama)
