@@ -1,6 +1,6 @@
 # Hi, I'm Galantryas
 
-I'm a full-stack developer working with Laravel and Vue. I also build desktop utilities, games, and tools for developers.
+I'm a full-stack developer working with CodeIgniter, Laravel, Vue, and Flutter.
 
 ## Selected projects
 
