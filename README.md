@@ -19,4 +19,4 @@ I'm a full-stack developer working with CodeIgniter, Laravel, Vue, and Flutter.
 ## Find me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=flat-square&logo=googlechrome&logoColor=white)](https://galantryas.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galantryas-mukti-pratama)
+<a href="https://www.linkedin.com/in/galantryas-mukti-pratama"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/linkedin/linkedin-original.svg" alt="" width="20" height="20" /> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn" /></a>
