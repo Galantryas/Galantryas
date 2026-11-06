@@ -1,6 +1,9 @@
-# Hi, I'm Galantryas
+<h1 align="center">Hi, I'm Galantryas</h1>
 
-I'm a full-stack developer working with CodeIgniter, Laravel, Vue, and Flutter.
+<p align="center">
+  I'm a <strong>full-stack developer</strong> working with<br />
+  <strong>CodeIgniter, Laravel, Vue, and Flutter.</strong>
+</p>
 
 ## Technologies
 
@@ -11,10 +14,28 @@ I'm a full-stack developer working with CodeIgniter, Laravel, Vue, and Flutter.
 
 ## Selected projects
 
-- [Survive](https://github.com/Galantryas/survive): An offline-first Android app for disaster response, with mesh messaging and offline maps.
-- [Money Tracker](https://github.com/Galantryas/money-tracker): An offline Flutter finance app for tracking transactions, managing pockets, and viewing reports.
-- [Virtual Office](https://github.com/Galantryas/virtual-office): A 2D pixel-art office where AI agents work through a sprint backlog.
-- [Snake & Ladder](https://github.com/Galantryas/snake-ladder): A browser-based snakes and ladders game built with vanilla HTML, CSS, and JavaScript.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Galantryas/survive">Survive</a></h3>
+      <p>An offline-first Android app for disaster response, with mesh messaging and offline maps.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Galantryas/money-tracker">Money Tracker</a></h3>
+      <p>An offline Flutter finance app for tracking transactions, managing pockets, and viewing reports.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Galantryas/virtual-office">Virtual Office</a></h3>
+      <p>A 2D pixel-art office where AI agents work through a sprint backlog.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Galantryas/snake-ladder">Snake &amp; Ladder</a></h3>
+      <p>A browser-based snakes and ladders game built with vanilla HTML, CSS, and JavaScript.</p>
+    </td>
+  </tr>
+</table>
 
 ## Find me
 
